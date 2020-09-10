@@ -12,8 +12,8 @@ highlight_code = true
 build_search_index = true
 
 theme = "hyde"
-description = "Meu blog in Rust" 
-title = "Meu blog"
+description = "SOAF Therapy" 
+title = "Stamping On A Face"
 
 [extra]
 # Put all your custom variables here
@@ -22,5 +22,5 @@ hyde_links = [
     {url = "/about", name = "Sobre este blog"}
 ]
 hyde_sticky = true
-# hyde_theme = "theme-base-08"
+hyde_theme = "theme-base-08"
 hyde_reverse = true

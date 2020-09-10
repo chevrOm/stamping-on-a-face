@@ -1,7 +1,7 @@
 +++
 title = "Vagão pegando fogo"
 date = 2020-09-08T15:40:00z
-draft = false
+draft = true
 +++
 ---
 Até o ano de 1953 a estação ferroviária de Colatina, construída ainda no ano de 1906, ficava bem na metade da extensão da avenida principal da cidade, por onde passavam os trilhos da ferrovia. Parecendo até que, por pirraça, os engenheiros tivessem pegado uma trena e, após medir a via, escolhessem aquele ponto exato. 

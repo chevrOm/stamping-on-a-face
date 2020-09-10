@@ -1,7 +1,7 @@
 +++
 title = "A ferramenta"
 date = 2020-09-08T15:50:00z
-draft = false
+draft = true
 +++
 ---
 Existe uma organização que, em seus primórdios, era composta por pedreiros, tendo como finalidade regulamentar a profissão e sua relação com as autoridades e clientes. Posteriormente, ela passou a agregar profissionais de outras áreas e tornou-se cada vez mais fechada, adotando vários ritos secretos. Parece que ele fazia parte dessa agremiação, daí ser conhecido somente pelo apelido que designava seus membros, e acredito que pouquíssimas pessoas soubessem seu nome de batismo.
